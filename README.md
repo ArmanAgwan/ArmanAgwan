@@ -25,3 +25,17 @@ Here are some ideas to get you started:
   function add(num1, num2) {
     return num1 + num2;
   }```
+
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+
+```
+
