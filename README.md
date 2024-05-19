@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<!--- Code Blocks --->
-'''bash
+```bash
   npm install
 
   npm start
-'''
+```
+
+```javascript
+  function add(num1, num2) {
+    return num1 + num2;
+  }```
