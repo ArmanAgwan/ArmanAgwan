@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 ```javascript
   function add(num1, num2) {
     return num1 + num2;
-  }```
+  }
+```
 
 ```html
 <!DOCTYPE html>
